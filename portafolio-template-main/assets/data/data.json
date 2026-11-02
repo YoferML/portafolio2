@@ -1,0 +1,81 @@
+{
+  "avatar": "tu_foto_de_perfil.jpg",
+  "name": "[Tu Nombre Completo]",
+  "title": "Matemático orientado a la Ingeniería de Machine Learning",
+  "subtitles": [
+    "Machine Learning Engineer",
+    "Applied Mathematician",
+    "MLOps & Backend Developer"
+  ],
+  "location": "Piura, Perú",
+  "media": [
+    {
+      "icon": "mail",
+      "url": "mailto:tu.email@email.com",
+      "text": "tu.email@email.com"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com",
+      "text": "GitHub"
+    },
+    {
+      "icon": "linkedin",
+      "url": "https://linkedin.com",
+      "text": "LinkedIn"
+    },
+    {
+      "icon": "file-text",
+      "url": "https://tu-cv-pdf-link.com",
+      "text": "Currículum Vitae"
+    }
+  ],
+  "about": "Soy un matemático orientado a la ingeniería de Machine Learning con una sólida formación en Ciencias Puras. Esta combinación única me otorga una perspectiva analítica rigurosa para comprender los fundamentos internos, la optimización y el comportamiento de los algoritmos de IA, evitando tratarlos como una simple 'caja negra'. Mi enfoque principal es cerrar la brecha entre la ciencia de datos teórica y el desarrollo de software listo para producción, encapsulando modelos complejos en APIs de alto rendimiento con FastAPI y desplegándolos eficientemente en la nube.",
+  "technologies": [
+    { "icon": "python", "name": "Python" },
+    { "icon": "fastapi", "name": "FastAPI" },
+    { "icon": "docker", "name": "Docker" },
+    { "icon": "linux", "name": "Linux/Bash" },
+    { "icon": "postgresql", "name": "PostgreSQL" },
+    { "icon": "git", "name": "Git" }
+  ],
+  "experience": [
+    {
+      "icon": "terminal",
+      "title": "Desarrollador de IA & Backend",
+      "subtitle": "Proyectos Independientes / Freelance",
+      "description": "Diseño de lógica de backend asíncrona, empaquetamiento de entornos reproducibles mediante contenedores y estructuración de pipelines para la puesta en producción de algoritmos inteligentes.",
+      "date": "2024 - Actualidad"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "glass-water",
+      "title": "Clasificador de Vidrio con Lógica Difusa",
+      "subtitle": "End-to-End API",
+      "description": "Sistema inteligente basado en un modelo inferencial matemático que analiza 9 propiedades físico-químicas del vidrio para determinar su procedencia. Lógica encapsulada en una API de alta velocidad.",
+      "technologies": ["Python", "FastAPI", "Scikit-Fuzzy", "Flask"],
+      "url": "https://tu-url-de-render.com",
+      "github": "https://github.com/clasificador-vidrio"
+    }
+  ],
+  "training": [
+    {
+      "icon": "graduation-cap",
+      "title": "Licenciatura en Matemática Pura",
+      "subtitle": "[Tu Universidad o Institución]",
+      "description": "Enfoque en Álgebra Lineal, Cálculo Avanzado, Optimización Matemática y Modelado Estocástico aplicado.",
+      "date": "En curso",
+      "certificate": ""
+    },
+    {
+      "icon": "award",
+      "title": "Especialización en Inteligencia Artificial",
+      "subtitle": "Formación Autónoma y Cursos Avanzados",
+      "description": "Estudio profundo de arquitecturas de Deep Learning, Machine Learning clásico y despliegue automatizado.",
+      "date": "2024",
+      "certificate": ""
+    }
+  ],
+  "extras": []
+}
